@@ -1,4 +1,4 @@
-gallery-by-react
+react-demo
 
 A gallery based on React.js http://www.xingbofeng.com/gallery-by-react/
 
